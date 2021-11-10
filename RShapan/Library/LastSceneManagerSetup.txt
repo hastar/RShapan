@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scene/SteamVRTest.unity
+  isLoaded: 1
+  isActive: 1
